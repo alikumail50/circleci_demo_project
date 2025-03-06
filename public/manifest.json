@@ -1,0 +1,15 @@
+{
+  "short_name": "DevOps Demo",
+  "name": "Ali Kumail's CircleCI Demo with React App",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "192x192",
+      "type": "image/svg"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
