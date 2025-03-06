@@ -1,4 +1,4 @@
-# Ali Kumail's DevOps Demo
+# CircleCI Demo with React App
 
 This is a React app demonstrating a CI/CD pipeline using CircleCI. Built by **Ali Kumail**, DevOps Engineer.
 
